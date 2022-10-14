@@ -8,7 +8,7 @@ import Form2 from "./components/Form2";
 function App() {
   return (
     <>
-      <pre>single change</pre>
+      <pre>Single change</pre>
       <h1 >Hello world - React + TS </h1>
       <hr />
 
